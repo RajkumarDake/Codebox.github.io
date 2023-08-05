@@ -24,14 +24,14 @@ textarea{
     height:28%;
     font-weight: 30px;
     background:#1f1f1f;
-    color:black;
+    color:white;
     padding:10px 20px;
     border:0;
     outline:0;
     font-size:18px
 
 }
-#html-code{
+/* #html-code{
     background-color: lightcoral;
 }
 #css-code{
@@ -39,11 +39,12 @@ textarea{
 }
 #js-code{
     background-color: rgb(201, 201, 70);
-}
+} */
 #output{
     background-color: lightgray;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
+    color: blac;
+    font-family: calibri,sans-serif;
+    font-weight: 40p;
 }
 iframe{
     width:100%;
